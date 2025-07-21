@@ -31,8 +31,8 @@ No taxes, no rug, no fake promises.
 🌐 Website: (coming soon)  
 🐦 Twitter: https://x.com/ObedientShib  
 📣 Telegram: https://t.me/ObedientShib  
-📊 DEXTools: https://www.dextools.io/app/en/bnb/pair-explorer/0x131...  
-💱 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x1e0...
+📊 DEXTools:  https://www.dextools.io/app/tr/bnb/pair-explorer/0x131252305d2d3de61e67d86b068e2e00007b1e964e2a97c43aa294f71bed589b?t=1753120186865 
+💱 uniswap: https://app.uniswap.org
 
 ---
 
