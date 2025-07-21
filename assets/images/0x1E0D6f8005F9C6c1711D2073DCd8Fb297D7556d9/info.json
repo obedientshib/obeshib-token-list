@@ -1,0 +1,11 @@
+{
+  "name": "ObedientShib",
+  "symbol": "OSHIB",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ObedientShib is the most disciplined dog on BNB Chain. No tax, LP burned, ownership renounced. 100% community-driven meme coin.",
+  "website": "https://github.com/ObedientShib/obeshib-token-list",
+  "explorer": "https://bscscan.com/token/0x1E0D6f8005F9C6c1711D2073DCd8Fb297D7556d9",
+  "status": "active",
+  "id": "0x1E0D6f8005F9C6c1711D2073DCd8Fb297D7556d9"
+}
