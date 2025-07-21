@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Obedient Shiba**
 
-![OSHIB Logo](https://raw.githubusercontent.com/r1sulo/obeshib-token-list/main/6184C93C-B1B0-4C86-8723-61875C38520A.png)
+![OSHIB Logo](https://raw.githubusercontent.com//obeshib-token-list/main/6184C93C-B1B0-4C86-8723-61875C38520A.png)
 
 ---
 
